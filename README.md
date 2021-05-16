@@ -1,6 +1,6 @@
 # Dice. Roller. PVP!
 
-This is my own game I created based on Github's (https://github.com/paulsweany/intermediate-python-course "intermediate-python-course").
+This is my own game I created based on Github's [intermediate-python-course](https://github.com/paulsweany/intermediate-python-course).
 
 Hang on to your **butts** and hold your horses because this **sick nasty** dice pvp game is sure to get those rocks in your socks a movin'. *YEEEEEHAAAWWWWW!!!!!*
 
